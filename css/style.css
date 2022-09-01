@@ -36,9 +36,9 @@ h1{
     font-size: 0.8rem;
     color: white;
     background-color: hsl(247deg 24% 7%);
-    /* width:150px;  */
     height: 90px;
     margin: 8px;
+    padding-bottom: ;
     width: calc(100% / 3 - 24px);
     float: left;
 }
@@ -52,7 +52,7 @@ margin: 0;
 
 .contact-info{
     text-align: justify;
-    padding: 10px;
+    padding: 15px;
     padding-left: 100px;
 }
 
