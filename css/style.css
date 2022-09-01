@@ -8,5 +8,22 @@
 /* COMMON */
 html{
     font-family: 'Fredoka', sans-serif;
+}
+
+body{
+    width: 70%;
+    text-align: center; 
+    margin: 15% 15%;
+}
+/* HEADER */
+h1{
+  color: hsl(339deg 78% 55%);
+  margin-bottom: 1em;  
+}
+
+/* text-container */
+.text{
 
 }
+
+/* team-contacts */
