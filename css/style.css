@@ -38,9 +38,10 @@ h1{
     background-color: hsl(247deg 24% 7%);
     height: 90px;
     margin: 8px;
-    padding-bottom: ;
     width: calc(100% / 3 - 24px);
     float: left;
+    box-shadow: 4px 3px 8px 1px #969696;
+    -webkit-box-shadow: 4px 3px 8px 1px #969696;
 }
 
 img{
