@@ -27,3 +27,39 @@ h1{
 }
 
 /* team-contacts */
+
+.container{
+    margin-top: 30px;
+}
+
+.card{
+    font-size: 0.8rem;
+    color: white;
+    background-color: hsl(247deg 24% 7%);
+    width:250px; 
+    height: 80px;
+}    
+
+
+.card::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+
+img{
+float: left;
+height: 80px;
+padding:0;
+margin: 0;
+}
+
+.contact-info{
+    text-align: justify;
+    padding: 10px;
+    padding-left: 90px;
+}
+
+.mail{
+    color: rgb(142, 193, 255)
+}
